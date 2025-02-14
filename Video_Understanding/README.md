@@ -26,13 +26,3 @@ lang-chain을 이용해서 모델을 테스트 해보고자 함
 
 VQA²의 경우에는 용량이 너무 커서 모델을 메모리에 올리지도 못할 것 같음    
 경랑화된 모델을 기준으로 모델을 테스트를 진행 해야 될 것 같음  
-
-FAST-VQA는 모델 셋팅은 완료 했으나 
-
-* video underingstanding model
-
-https://paperswithcode.com/task/video-understanding  
-video-understanding을 이용해서 task를 구성을 하는게 좋아 보임
-
-> https://github.com/open-mmlab/mmaction2  
-> https://github.com/OpenGVLab/InternVL?tab=readme-ov-file  
